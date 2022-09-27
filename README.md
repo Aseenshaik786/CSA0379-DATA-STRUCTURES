@@ -1,6 +1,6 @@
 # CSA0379-DATA-STRUCTURES
 array deletion.c
-binary search.c
+binary search.
 fibonacci with recursion.c
 fibonacci without recurssion.c
 linear search.c
@@ -9,3 +9,13 @@ matrice multiplication.c
 ODD EVEN.c
 FACTORIAL .c
 stack operations.c
+factorial without recursion
+stack applications
+queue
+tree transversals
+hashing using probing
+insertion sort
+quick sort
+merge sort
+heap sort
+avl tree
