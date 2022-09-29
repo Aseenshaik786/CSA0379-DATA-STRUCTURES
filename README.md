@@ -19,3 +19,8 @@ quick sort
 merge sort
 heap sort
 avl tree
+BFS algorithm
+DFS algorithm
+dijkstra algorithm
+prims algorithm
+krushal algorithm
